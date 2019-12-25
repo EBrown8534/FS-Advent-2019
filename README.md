@@ -1,4 +1,5 @@
-# If you use .NET, build your objects in F#
+If you use .NET, build your objects in F#
+===
 
 So towards the end of October, I [tweeted][1] (as one does) about building
 domain objects and models in F#. I mentioned a few nice things about it, so
@@ -76,7 +77,7 @@ I could go into a large digression on the intermediate language generated and
 how it works, why it's important, etc., instead, I'm going to just use a quick
 screenshot of the generated F# class (left) to the generated C# class (right).
 
-![F# and C# comparison](Step1.png)
+![F# and C# comparison](http://usingprogramming.com/image.axd?picture=/2019/12/Step1.png)
 
 Wow are those different. F# implemented 9 additional methods and even setup a
 constructor for us. Not so bad. The C# version, on the other hand, is _just_
