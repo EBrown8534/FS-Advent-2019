@@ -196,6 +196,9 @@ date. In fact, I'm going to target mid-January for that discussion. That said,
 I recommend doing some tests of the C# vs. F# objects, and especially in usage
 as dictionary keys. You might find some interesting results.
 
+Additionally, this is all up [on GitHub][8], so feel free to play with the
+exact code I was using to test our setups.
+
 [1]: https://twitter.com/EBrown8534/status/1189615987949215746
 [2]: https://twitter.com/EBrown8534/status/1136671940079509504
 [3]: https://twitter.com/EBrown8534/status/1195001538692997120
@@ -203,4 +206,4 @@ as dictionary keys. You might find some interesting results.
 [5]: https://twitter.com/EBrown8534/status/1209207151501164545
 [6]: https://twitter.com/EBrown8534/status/1131290353137594368
 [7]: https://twitter.com/EBrown8534/status/1174087565168787456
-
+[8]: https://github.com/EBrown8534/FS-Advent-2019
