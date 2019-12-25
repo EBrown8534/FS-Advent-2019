@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Step1.fs" />
+        <Compile Include="Step2.fs" />
+        <Compile Include="Step3.fs" />
+    </ItemGroup>
+
+</Project>
